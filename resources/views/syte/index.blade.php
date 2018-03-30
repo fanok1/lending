@@ -2,8 +2,8 @@
 
 @section("header")
     @include("syte.header")
-@endsections
+@endsection
 
 @section("content")
     @include("syte.content")
-@endsections
+@endsection
